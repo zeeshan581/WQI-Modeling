@@ -1,18 +1,18 @@
 # Water Quality Sustainability Prediction
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains the complete codebase and documentation for our **Water Quality Prediction** project. The primary goal is to leverage advanced machine learning models to accurately predict the sustainability of freshwater samples based on a wide range of chemical and physical parameters.
 
 ---
 
-## 🎯 The Challenge: Ensuring Freshwater Quality
+## The Challenge: Ensuring Freshwater Quality
 
 Freshwater is a finite and critical resource, essential for human health, agriculture, and ecosystem stability. This project addresses the challenge of ensuring water safety by developing a robust predictive model to determine the sustainability of water samples for consumption.
 
 ---
 
-## 🛠️ Dependencies & Setup
+## Dependencies & Setup
 
 This project relies on several Python libraries. Ensure you have them installed to run the code.
 
@@ -31,7 +31,7 @@ This project relies on several Python libraries. Ensure you have them installed 
 
 ---
 
-## 💻 How to Use
+## How to Use
 
 Follow these steps to get the project running on your local machine.
 
@@ -51,7 +51,7 @@ Follow these steps to get the project running on your local machine.
 
 ---
 
-## 📊 About the Dataset
+## About the Dataset
 
 This rich dataset originates from an authoritative source: the **Central Pollution Control Board (CPCB) — National Water Quality Monitoring Programme (NWMP)** of India. This ensures the data is credible and reflects a comprehensive, real-world scenario of water quality across the nation.
 
@@ -75,7 +75,7 @@ After preprocessing, the dataset was refined to approximately **5.1 million clea
 
 ---
 
-## 🤖 Methodology and Technology
+## Methodology and Technology
 
 ### Model Development Workflow
 Our approach involved a systematic progression from simpler to more complex models to establish a strong performance baseline.
